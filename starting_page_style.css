@@ -29,8 +29,6 @@ hr {
     max-width: 65px;
     border-width: 3px;
     background-color: #F05F44;
-    margin-top: 25rem;
-    margin-bottom: 4rem;
 
 }
 
@@ -39,8 +37,8 @@ hr {
     clear: left;
     font: 14px Helvetica, Arial, sans-serif;
     width: auto;
-    margin-left: 400px;
-    margin-top: 200px;
+    margin-left: 30em;
+    margin-top: 20em;
 }
 
 #mc_embed_signup input {
