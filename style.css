@@ -36,29 +36,6 @@ hr {
 
 }
 
-/* This is just done using inspect method i font know the selectors here */
-#mc_embed_signup {
-    clear: left;
-    font: 14px Helvetica, Arial, sans-serif;
-    width: auto;
-    margin-left: 400px;
-    margin-top: 200px;
-}
-
-#mc_embed_signup input {
-    align-items: center;
-    border: 1px solid #ABB0B2;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    border-radius: 39px;
-}
-
-#mc-embedded-subscribe {
-    clear: both;
-    width: 15em;
-    display: block;
-    margin: 10rem 0 0rem 10rem 50%;
-}
 
 
 .btn {
